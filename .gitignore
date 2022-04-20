@@ -17,3 +17,8 @@ ldavis_prepared_10.html
 vectored_no_stops_bi
 vectored_no_stops_mono
 vectored_no_stops_tri
+built_out_df
+bigram_association_measures
+pos_bigram_association_measures
+neg_bigram_association_measures
+.ipynb_checkpoints/Initial EDA-checkpoint.ipynb
